@@ -1,0 +1,13 @@
+{
+    "name": "Wagner infantry ",
+    "unitType": "Gunpowder",
+    "replaces": "Modern infantry",
+    "uniqueTo": "Wagner Pmc",
+    "movement": 4,
+    "strength": 90,
+    "cost": 300,
+    "requiredTech": "Telecommunications",
+    "obsoleteTech": "Telecommunications",
+    "uniques": ["+[35]% combat bonus in [Grassland]","+[55]% combat bonus in [Forest]","+[35]% combat bonus in [Plains]"],
+    "attackSound": "shot"
+}
